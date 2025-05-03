@@ -107,11 +107,3 @@ Doing some projects to study in my free time and also as an hobby.<br>
     style="padding-right: 10;" 
     src="https://github-readme-stats.vercel.app/api?username=8sc19&hide_border=true&show_icons=true&theme=gruvbox&include_all_commits=true" 
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=8sc19&layout=compact&theme=gruvbox&hide_border=true" 
-  />
-</p>
